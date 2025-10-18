@@ -1,1 +1,1 @@
-# Southside-Chicago-hack
+loadstring(game:HttpGet(repo .. 'Library.lua'))()
